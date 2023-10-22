@@ -13,6 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("viewDidLoad.......")
         print("Demo push pull git")
+        print("And another git push demo")
         // Do any additional setup after loading the view.
     }
 
