@@ -12,6 +12,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("viewDidLoad.......")
+        print("Demo push pull git")
         // Do any additional setup after loading the view.
     }
 
